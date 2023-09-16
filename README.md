@@ -1,11 +1,11 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:
+# AIM:
 To Assemble the Computer System
 
-PROCEDURE:
+# PROCEDURE:
 
-ASSEMBLING THE SYSTEM
+# ASSEMBLING THE SYSTEM
 o Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics.
 
 o Alternatively, a large metal body like a radiator can also be touched to discharge oneself.
@@ -106,6 +106,6 @@ o Turn on the computer. Press the computer's Power button on the front or back o
  o Almost all the hardware that was purchased should come with discs that contain the driver software needed for the hardware to work.
  o Modern versions of Windows and Linux will install most drivers automatically when connected to the Internet.
 
-RESULT:
+# RESULT:
 Thus, the computer has been successfully assembled
 
